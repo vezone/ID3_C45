@@ -1,0 +1,1 @@
+Type GunType Angle Distance Score Decision
